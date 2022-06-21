@@ -27,3 +27,4 @@ svn co https://github.com/riverscn/openwrt-iptvhelper/trunk/iptvhelper package/i
 svn co https://github.com/riverscn/openwrt-iptvhelper/tree/master/luci-app-iptvhelper package/luci-app-iptvhelper
 svn co https://github.com/lisaac/luci-app-dockerman/trunk/applications/luci-app-dockerman package/luci-app-dockerman
 svn co https://github.com/gd0772/package/trunk/luci-app-usb-printer package/luci-app-usb-printer
+git clone https://github.com/sirpdboy/luci-app-poweroffdevice package/luci-app-poweroffdevice
